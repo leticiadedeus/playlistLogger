@@ -1,3 +1,3 @@
 ## Playlist Logger
 
-An node API to log your playlists
+An node API to log your best playlists
